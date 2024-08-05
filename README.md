@@ -52,6 +52,6 @@ We welcome contributions to improve this project. Please fork the repository and
 
 ## Screenshots
 
-![DDoS Detection](screenshots/ddos_detection.png)
+![DDoS Detection](DDOS_Attack_Output.png)
 
 
