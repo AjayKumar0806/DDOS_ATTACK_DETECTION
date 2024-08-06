@@ -13,7 +13,6 @@ This project aims to identify DDoS attacks using entropy computing to determine 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Screenshots](#screenshots)
 
 ## Features
@@ -26,7 +25,7 @@ This project aims to identify DDoS attacks using entropy computing to determine 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ddos-attack-detection.git
+    git clone https://github.com/AjayKumar0806/ddos-attack-detection.git
     ```
 2. Change to the project directory:
     ```sh
@@ -42,7 +41,7 @@ This project aims to identify DDoS attacks using entropy computing to determine 
 1. Prepare your dataset with network traffic data.
 2. Run the detection script:
     ```sh
-    python detect_ddos.py
+    java detect_ddos
     ```
 3. View the results and accuracy of the detection.
 
