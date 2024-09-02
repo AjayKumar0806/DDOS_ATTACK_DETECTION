@@ -1,6 +1,6 @@
 # Distributed Denial of Service (DDoS) Attack Detection Using Entropy Computing
 
-## Overview 
+## Overview of project
 
 The Distributed Denial of Service (DDoS) attack is a significant threat to internet servers. It occurs when a large number of users simultaneously access a target, overwhelming the server and causing disruptions. Detecting such attacks can be challenging due to their nature and scale.
 
